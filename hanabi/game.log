@@ -125,3 +125,973 @@
 05/23/2022 12:09:30 PM WARNING: Player disconnected: AI-Carolina
 05/23/2022 12:09:30 PM WARNING: Player disconnected: AI-Marco
 05/23/2022 12:09:30 PM INFO: Shutting down server
+05/24/2022 12:42:56 AM INFO: Hanabi server started on 127.0.0.1:1024
+05/24/2022 12:51:26 AM INFO: Hanabi server started on 127.0.0.1:1024
+05/24/2022 12:51:48 AM INFO: Connected by: ('127.0.0.1', 63090)
+05/24/2022 12:51:48 AM INFO: Player connected: AI-Marco
+05/24/2022 12:51:54 AM INFO: Connected by: ('127.0.0.1', 63093)
+05/24/2022 12:51:54 AM WARNING: Duplicate player: AI-Marco
+05/24/2022 12:52:02 AM INFO: Connected by: ('127.0.0.1', 63096)
+05/24/2022 12:52:02 AM INFO: Player connected: AI-Carolina
+05/24/2022 12:52:04 AM INFO: Player ready: AI-Carolina
+05/24/2022 12:52:27 AM INFO: Hanabi server started on 127.0.0.1:1024
+05/24/2022 12:52:45 AM INFO: Hanabi server started on 127.0.0.1:1024
+05/24/2022 12:52:48 AM INFO: Connected by: ('127.0.0.1', 63108)
+05/24/2022 12:52:48 AM INFO: Player connected: AI-Marco
+05/24/2022 12:52:50 AM INFO: Connected by: ('127.0.0.1', 63111)
+05/24/2022 12:52:50 AM INFO: Player connected: AI-Carolina
+05/24/2022 12:52:55 AM INFO: Player ready: AI-Carolina
+05/24/2022 12:52:59 AM INFO: Player ready: AI-Marco
+05/24/2022 12:52:59 AM INFO: Game start! Between: ['AI-Marco', 'AI-Carolina']
+05/24/2022 12:52:59 AM INFO: Ok, let's start the game!
+05/24/2022 12:52:59 AM INFO: Showing hand to: AI-Marco
+05/24/2022 12:52:59 AM INFO: Showing hand to: AI-Carolina
+05/24/2022 12:52:59 AM WARNING: Player disconnected: AI-Carolina
+05/24/2022 12:52:59 AM WARNING: Player disconnected: AI-Marco
+05/24/2022 12:52:59 AM INFO: Shutting down server
+05/24/2022 12:56:55 AM INFO: Hanabi server started on 127.0.0.1:1024
+05/24/2022 12:58:08 AM INFO: Hanabi server started on 127.0.0.1:1024
+05/24/2022 12:58:11 AM INFO: Hanabi server started on 127.0.0.1:1024
+05/24/2022 12:58:15 AM INFO: Hanabi server started on 127.0.0.1:1024
+05/24/2022 12:58:17 AM INFO: Connected by: ('127.0.0.1', 63209)
+05/24/2022 12:58:17 AM INFO: Player connected: AI-Carolina
+05/24/2022 12:58:19 AM INFO: Connected by: ('127.0.0.1', 63212)
+05/24/2022 12:58:19 AM INFO: Player connected: AI-Marco
+05/24/2022 12:58:23 AM INFO: Player ready: AI-Marco
+05/24/2022 12:58:26 AM INFO: Player ready: AI-Carolina
+05/24/2022 12:58:26 AM INFO: Game start! Between: ['AI-Carolina', 'AI-Marco']
+05/24/2022 12:58:26 AM INFO: Ok, let's start the game!
+05/24/2022 12:58:26 AM INFO: Showing hand to: AI-Carolina
+05/24/2022 12:58:26 AM INFO: Showing hand to: AI-Marco
+05/24/2022 12:58:26 AM WARNING: Player disconnected: AI-Carolina
+05/24/2022 12:58:26 AM WARNING: Player disconnected: AI-Marco
+05/24/2022 12:58:26 AM INFO: Shutting down server
+05/24/2022 12:59:37 AM INFO: Hanabi server started on 127.0.0.1:1024
+05/24/2022 12:59:41 AM INFO: Connected by: ('127.0.0.1', 63223)
+05/24/2022 12:59:41 AM INFO: Player connected: AI-Carolina
+05/24/2022 12:59:44 AM INFO: Connected by: ('127.0.0.1', 63226)
+05/24/2022 12:59:44 AM WARNING: Duplicate player: AI-Carolina
+05/24/2022 12:59:48 AM INFO: Hanabi server started on 127.0.0.1:1024
+05/24/2022 12:59:53 AM INFO: Connected by: ('127.0.0.1', 63229)
+05/24/2022 12:59:53 AM INFO: Player connected: AI-Carolina
+05/24/2022 12:59:57 AM INFO: Connected by: ('127.0.0.1', 63233)
+05/24/2022 12:59:57 AM INFO: Player connected: AI-Marco
+05/24/2022 01:00:02 AM INFO: Connected by: ('127.0.0.1', 63236)
+05/24/2022 01:00:02 AM WARNING: Duplicate player: AI-Marco
+05/24/2022 01:00:29 AM INFO: Hanabi server started on 127.0.0.1:1024
+05/24/2022 01:00:35 AM INFO: Connected by: ('127.0.0.1', 63239)
+05/24/2022 01:00:35 AM INFO: Player connected: AI-Marco
+05/24/2022 01:00:40 AM INFO: Connected by: ('127.0.0.1', 63243)
+05/24/2022 01:00:40 AM INFO: Player connected: AI-Carolina
+05/24/2022 01:00:44 AM INFO: Player ready: AI-Marco
+05/24/2022 01:00:47 AM INFO: Player ready: AI-Carolina
+05/24/2022 01:00:47 AM INFO: Game start! Between: ['AI-Marco', 'AI-Carolina']
+05/24/2022 01:00:47 AM INFO: Ok, let's start the game!
+05/24/2022 01:00:47 AM INFO: Showing hand to: AI-Carolina
+05/24/2022 01:00:47 AM INFO: Showing hand to: AI-Marco
+05/24/2022 01:00:47 AM WARNING: Player disconnected: AI-Marco
+05/24/2022 01:00:47 AM WARNING: Player disconnected: AI-Carolina
+05/24/2022 01:00:47 AM INFO: Shutting down server
+05/24/2022 01:01:49 AM INFO: Hanabi server started on 127.0.0.1:1024
+05/24/2022 01:01:52 AM INFO: Connected by: ('127.0.0.1', 63250)
+05/24/2022 01:01:52 AM INFO: Player connected: AI-Carolina
+05/24/2022 01:01:54 AM INFO: Connected by: ('127.0.0.1', 63253)
+05/24/2022 01:01:54 AM INFO: Player connected: AI-Marco
+05/24/2022 01:01:56 AM INFO: Player ready: AI-Marco
+05/24/2022 01:02:01 AM INFO: Player ready: AI-Carolina
+05/24/2022 01:02:01 AM INFO: Game start! Between: ['AI-Carolina', 'AI-Marco']
+05/24/2022 01:02:01 AM INFO: Ok, let's start the game!
+05/24/2022 01:02:01 AM INFO: Showing hand to: AI-Carolina
+05/24/2022 01:02:01 AM INFO: Showing hand to: AI-Marco
+05/24/2022 01:02:01 AM WARNING: Player disconnected: AI-Carolina
+05/24/2022 01:02:01 AM WARNING: Player disconnected: AI-Marco
+05/24/2022 01:02:01 AM INFO: Shutting down server
+05/24/2022 01:03:08 AM INFO: Hanabi server started on 127.0.0.1:1024
+05/24/2022 01:03:12 AM INFO: Connected by: ('127.0.0.1', 63258)
+05/24/2022 01:03:12 AM INFO: Player connected: AI-Carolina
+05/24/2022 01:03:15 AM INFO: Connected by: ('127.0.0.1', 63261)
+05/24/2022 01:03:15 AM INFO: Player connected: AI-Marco
+05/24/2022 01:03:18 AM INFO: Player ready: AI-Carolina
+05/24/2022 01:03:21 AM INFO: Player ready: AI-Marco
+05/24/2022 01:03:21 AM INFO: Game start! Between: ['AI-Carolina', 'AI-Marco']
+05/24/2022 01:03:21 AM INFO: Ok, let's start the game!
+05/24/2022 01:03:21 AM INFO: Showing hand to: AI-Carolina
+05/24/2022 01:03:21 AM INFO: Showing hand to: AI-Marco
+05/24/2022 01:03:21 AM WARNING: Player disconnected: AI-Carolina
+05/24/2022 01:03:21 AM WARNING: Player disconnected: AI-Marco
+05/24/2022 01:03:21 AM INFO: Shutting down server
+05/24/2022 01:04:15 AM INFO: Hanabi server started on 127.0.0.1:1024
+05/24/2022 01:04:19 AM INFO: Connected by: ('127.0.0.1', 63274)
+05/24/2022 01:04:19 AM INFO: Player connected: AI-Carolina
+05/24/2022 01:04:25 AM INFO: Connected by: ('127.0.0.1', 63277)
+05/24/2022 01:04:25 AM INFO: Player connected: AI-Marco
+05/24/2022 01:04:28 AM INFO: Player ready: AI-Marco
+05/24/2022 01:04:30 AM INFO: Player ready: AI-Carolina
+05/24/2022 01:04:30 AM INFO: Game start! Between: ['AI-Carolina', 'AI-Marco']
+05/24/2022 01:04:30 AM INFO: Ok, let's start the game!
+05/24/2022 01:04:30 AM INFO: Showing hand to: AI-Carolina
+05/24/2022 01:04:30 AM INFO: Showing hand to: AI-Marco
+05/24/2022 01:04:30 AM WARNING: Player disconnected: AI-Carolina
+05/24/2022 01:04:30 AM WARNING: Player disconnected: AI-Marco
+05/24/2022 01:04:30 AM INFO: Shutting down server
+05/24/2022 01:06:18 AM INFO: Hanabi server started on 127.0.0.1:1024
+05/24/2022 01:06:22 AM INFO: Connected by: ('127.0.0.1', 63324)
+05/24/2022 01:06:22 AM INFO: Player connected: AI-Carolina
+05/24/2022 01:06:28 AM INFO: Connected by: ('127.0.0.1', 63327)
+05/24/2022 01:06:28 AM INFO: Player connected: AI-Marco
+05/24/2022 01:06:31 AM INFO: Player ready: AI-Marco
+05/24/2022 01:06:33 AM INFO: Player ready: AI-Carolina
+05/24/2022 01:06:33 AM INFO: Game start! Between: ['AI-Carolina', 'AI-Marco']
+05/24/2022 01:06:33 AM INFO: Ok, let's start the game!
+05/24/2022 01:06:33 AM INFO: Showing hand to: AI-Carolina
+05/24/2022 01:06:33 AM INFO: Showing hand to: AI-Marco
+05/24/2022 01:06:33 AM WARNING: Player disconnected: AI-Carolina
+05/24/2022 01:06:33 AM WARNING: Player disconnected: AI-Marco
+05/24/2022 01:06:33 AM INFO: Shutting down server
+05/24/2022 01:07:26 AM INFO: Hanabi server started on 127.0.0.1:1024
+05/24/2022 01:07:31 AM INFO: Connected by: ('127.0.0.1', 63332)
+05/24/2022 01:07:31 AM INFO: Player connected: AI-Carolina
+05/24/2022 01:07:37 AM INFO: Connected by: ('127.0.0.1', 63335)
+05/24/2022 01:07:37 AM INFO: Player connected: AI-Marco
+05/24/2022 01:07:41 AM INFO: Player ready: AI-Marco
+05/24/2022 01:07:44 AM INFO: Player ready: AI-Carolina
+05/24/2022 01:07:44 AM INFO: Game start! Between: ['AI-Carolina', 'AI-Marco']
+05/24/2022 01:07:44 AM INFO: Ok, let's start the game!
+05/24/2022 01:07:44 AM INFO: Showing hand to: AI-Marco
+05/24/2022 01:07:44 AM INFO: Showing hand to: AI-Carolina
+05/24/2022 01:11:09 AM INFO: Hanabi server started on 127.0.0.1:1024
+05/24/2022 01:11:12 AM INFO: Connected by: ('127.0.0.1', 62870)
+05/24/2022 01:11:12 AM INFO: Player connected: AI-Carolina
+05/24/2022 01:11:16 AM INFO: Connected by: ('127.0.0.1', 62874)
+05/24/2022 01:11:16 AM INFO: Player connected: AI-Marco
+05/24/2022 01:11:19 AM INFO: Player ready: AI-Marco
+05/24/2022 01:11:22 AM INFO: Player ready: AI-Carolina
+05/24/2022 01:11:22 AM INFO: Game start! Between: ['AI-Carolina', 'AI-Marco']
+05/24/2022 01:11:22 AM INFO: Ok, let's start the game!
+05/24/2022 01:11:22 AM INFO: Showing hand to: AI-Carolina
+05/24/2022 01:11:22 AM INFO: Showing hand to: AI-Marco
+05/24/2022 01:19:57 AM INFO: Hanabi server started on 127.0.0.1:1024
+05/24/2022 01:20:07 AM INFO: Connected by: ('127.0.0.1', 62960)
+05/24/2022 01:20:07 AM INFO: Player connected: AI-Carolina
+05/24/2022 01:20:17 AM INFO: Hanabi server started on 127.0.0.1:1024
+05/24/2022 01:20:27 AM INFO: Connected by: ('127.0.0.1', 62971)
+05/24/2022 01:20:27 AM INFO: Player connected: AI-Carolina
+05/24/2022 01:20:32 AM INFO: Connected by: ('127.0.0.1', 62976)
+05/24/2022 01:20:32 AM INFO: Player connected: AI-Marco
+05/24/2022 01:20:35 AM INFO: Player ready: AI-Marco
+05/24/2022 01:20:40 AM INFO: Player ready: AI-Carolina
+05/24/2022 01:20:40 AM INFO: Game start! Between: ['AI-Carolina', 'AI-Marco']
+05/24/2022 01:20:40 AM INFO: Ok, let's start the game!
+05/24/2022 01:20:40 AM INFO: Showing hand to: AI-Carolina
+05/24/2022 01:20:40 AM INFO: Showing hand to: AI-Marco
+05/24/2022 01:22:07 AM INFO: Hanabi server started on 127.0.0.1:1024
+05/24/2022 01:22:12 AM INFO: Connected by: ('127.0.0.1', 63016)
+05/24/2022 01:22:12 AM INFO: Player connected: AI-Carolina
+05/24/2022 01:22:16 AM INFO: Connected by: ('127.0.0.1', 63019)
+05/24/2022 01:22:16 AM INFO: Player connected: AI-Marco
+05/24/2022 01:22:19 AM INFO: Player ready: AI-Marco
+05/24/2022 01:22:25 AM INFO: Hanabi server started on 127.0.0.1:1024
+05/24/2022 01:22:30 AM INFO: Connected by: ('127.0.0.1', 63022)
+05/24/2022 01:22:30 AM INFO: Player connected: AI-Carolina
+05/24/2022 01:22:33 AM INFO: Player ready: AI-Carolina
+05/24/2022 01:22:38 AM INFO: Connected by: ('127.0.0.1', 63025)
+05/24/2022 01:22:38 AM INFO: Player connected: AI-Marco
+05/24/2022 01:22:40 AM INFO: Player ready: AI-Marco
+05/24/2022 01:22:40 AM INFO: Game start! Between: ['AI-Carolina', 'AI-Marco']
+05/24/2022 01:22:40 AM INFO: Ok, let's start the game!
+05/24/2022 01:22:40 AM INFO: Showing hand to: AI-Carolina
+05/24/2022 01:22:40 AM INFO: Showing hand to: AI-Marco
+05/24/2022 01:23:44 AM INFO: Hanabi server started on 127.0.0.1:1024
+05/24/2022 01:23:50 AM INFO: Connected by: ('127.0.0.1', 63034)
+05/24/2022 01:23:50 AM INFO: Player connected: AI-Marco
+05/24/2022 01:23:51 AM INFO: Connected by: ('127.0.0.1', 63037)
+05/24/2022 01:23:51 AM INFO: Player connected: AI-Carolina
+05/24/2022 01:23:55 AM INFO: Player ready: AI-Carolina
+05/24/2022 01:23:57 AM INFO: Player ready: AI-Marco
+05/24/2022 01:23:57 AM INFO: Game start! Between: ['AI-Marco', 'AI-Carolina']
+05/24/2022 01:23:57 AM INFO: Ok, let's start the game!
+05/24/2022 01:23:57 AM INFO: Showing hand to: AI-Marco
+05/24/2022 01:23:57 AM INFO: Showing hand to: AI-Carolina
+05/24/2022 01:24:49 AM INFO: Hanabi server started on 127.0.0.1:1024
+05/24/2022 01:24:57 AM INFO: Connected by: ('127.0.0.1', 63051)
+05/24/2022 01:24:57 AM INFO: Player connected: AI_Carolina
+05/24/2022 01:25:00 AM INFO: Player ready: AI_Carolina
+05/24/2022 01:25:03 AM INFO: Connected by: ('127.0.0.1', 63054)
+05/24/2022 01:25:03 AM INFO: Player connected: AI_Marco
+05/24/2022 01:25:04 AM INFO: Player ready: AI_Marco
+05/24/2022 01:25:04 AM INFO: Game start! Between: ['AI_Carolina', 'AI_Marco']
+05/24/2022 01:25:04 AM INFO: Ok, let's start the game!
+05/24/2022 01:25:04 AM INFO: Showing hand to: AI_Marco
+05/24/2022 01:25:04 AM INFO: Showing hand to: AI_Carolina
+05/24/2022 01:26:44 AM INFO: Connected by: ('127.0.0.1', 63062)
+05/24/2022 01:26:54 AM INFO: Connected by: ('127.0.0.1', 63065)
+05/24/2022 01:27:37 AM INFO: Hanabi server started on 127.0.0.1:1024
+05/24/2022 01:27:39 AM INFO: Connected by: ('127.0.0.1', 63068)
+05/24/2022 01:27:39 AM INFO: Player connected: AI_Carolina
+05/24/2022 01:27:41 AM INFO: Connected by: ('127.0.0.1', 63071)
+05/24/2022 01:27:41 AM INFO: Player connected: AI_Marco
+05/24/2022 01:27:43 AM INFO: Player ready: AI_Carolina
+05/24/2022 01:27:45 AM INFO: Player ready: AI_Marco
+05/24/2022 01:27:45 AM INFO: Game start! Between: ['AI_Carolina', 'AI_Marco']
+05/24/2022 01:27:45 AM INFO: Ok, let's start the game!
+05/24/2022 01:27:45 AM INFO: Showing hand to: AI_Carolina
+05/24/2022 01:27:45 AM INFO: Showing hand to: AI_Marco
+05/24/2022 01:29:33 AM INFO: Hanabi server started on 127.0.0.1:1024
+05/24/2022 01:29:38 AM INFO: Hanabi server started on 127.0.0.1:1024
+05/24/2022 01:29:40 AM INFO: Connected by: ('127.0.0.1', 63080)
+05/24/2022 01:29:40 AM INFO: Player connected: AI_Carolina
+05/24/2022 01:29:46 AM INFO: Connected by: ('127.0.0.1', 63083)
+05/24/2022 01:29:46 AM INFO: Player connected: AI_Marco
+05/24/2022 01:29:49 AM INFO: Player ready: AI_Marco
+05/24/2022 01:29:52 AM INFO: Player ready: AI_Carolina
+05/24/2022 01:29:52 AM INFO: Game start! Between: ['AI_Carolina', 'AI_Marco']
+05/24/2022 01:29:52 AM INFO: Ok, let's start the game!
+05/24/2022 01:29:52 AM INFO: Showing hand to: AI_Carolina
+05/24/2022 01:29:52 AM INFO: Showing hand to: AI_Marco
+05/24/2022 01:31:40 AM INFO: Hanabi server started on 127.0.0.1:1024
+05/24/2022 01:31:45 AM INFO: Connected by: ('127.0.0.1', 63089)
+05/24/2022 01:31:45 AM INFO: Player connected: AI_Carolina
+05/24/2022 01:31:48 AM INFO: Connected by: ('127.0.0.1', 63092)
+05/24/2022 01:31:48 AM INFO: Player connected: AI_Marco
+05/24/2022 01:31:51 AM INFO: Player ready: AI_Carolina
+05/24/2022 01:31:54 AM INFO: Player ready: AI_Marco
+05/24/2022 01:31:54 AM INFO: Game start! Between: ['AI_Carolina', 'AI_Marco']
+05/24/2022 01:31:54 AM INFO: Ok, let's start the game!
+05/24/2022 01:31:54 AM INFO: Showing hand to: AI_Marco
+05/24/2022 01:31:54 AM INFO: Showing hand to: AI_Carolina
+05/24/2022 01:38:21 AM INFO: Hanabi server started on 127.0.0.1:1024
+05/24/2022 01:38:25 AM INFO: Connected by: ('127.0.0.1', 63216)
+05/24/2022 01:38:25 AM INFO: Player connected: AI_Carolina
+05/24/2022 01:38:36 AM INFO: Connected by: ('127.0.0.1', 63219)
+05/24/2022 01:38:36 AM INFO: Player connected: AI_Marco
+05/24/2022 01:38:41 AM INFO: Player ready: AI_Marco
+05/24/2022 01:38:43 AM INFO: Player ready: AI_Carolina
+05/24/2022 01:38:43 AM INFO: Game start! Between: ['AI_Carolina', 'AI_Marco']
+05/24/2022 01:38:43 AM INFO: Ok, let's start the game!
+05/24/2022 01:38:43 AM INFO: Showing hand to: AI_Carolina
+05/24/2022 01:38:43 AM INFO: Showing hand to: AI_Marco
+05/24/2022 01:41:29 AM INFO: Hanabi server started on 127.0.0.1:1024
+05/24/2022 01:41:32 AM INFO: Connected by: ('127.0.0.1', 63230)
+05/24/2022 01:41:32 AM INFO: Player connected: AI_Carolina
+05/24/2022 01:41:33 AM INFO: Connected by: ('127.0.0.1', 63233)
+05/24/2022 01:41:33 AM INFO: Player connected: AI_Marco
+05/24/2022 01:41:35 AM INFO: Player ready: AI_Carolina
+05/24/2022 01:41:38 AM INFO: Player ready: AI_Marco
+05/24/2022 01:41:38 AM INFO: Game start! Between: ['AI_Carolina', 'AI_Marco']
+05/24/2022 01:41:38 AM INFO: Ok, let's start the game!
+05/24/2022 01:41:38 AM INFO: Showing hand to: AI_Carolina
+05/24/2022 01:41:38 AM INFO: Showing hand to: AI_Marco
+05/24/2022 01:42:48 AM INFO: Hanabi server started on 127.0.0.1:1024
+05/24/2022 01:42:52 AM INFO: Connected by: ('127.0.0.1', 63240)
+05/24/2022 01:42:52 AM INFO: Player connected: AI_Carolina
+05/24/2022 01:42:56 AM INFO: Connected by: ('127.0.0.1', 63243)
+05/24/2022 01:42:56 AM INFO: Player connected: AI_Marco
+05/24/2022 01:42:58 AM INFO: Player ready: AI_Marco
+05/24/2022 01:43:00 AM INFO: Player ready: AI_Carolina
+05/24/2022 01:43:00 AM INFO: Game start! Between: ['AI_Carolina', 'AI_Marco']
+05/24/2022 01:43:00 AM INFO: Ok, let's start the game!
+05/24/2022 01:43:00 AM INFO: Showing hand to: AI_Carolina
+05/24/2022 01:43:00 AM INFO: Showing hand to: AI_Marco
+05/24/2022 09:06:06 AM INFO: Hanabi server started on 127.0.0.1:1024
+05/24/2022 09:06:12 AM INFO: Connected by: ('127.0.0.1', 49684)
+05/24/2022 09:06:22 AM INFO: Hanabi server started on 127.0.0.1:1024
+05/24/2022 09:06:27 AM INFO: Connected by: ('127.0.0.1', 49687)
+05/24/2022 09:06:33 AM INFO: Connected by: ('127.0.0.1', 49690)
+05/24/2022 09:06:36 AM INFO: Connected by: ('127.0.0.1', 49693)
+05/24/2022 09:06:46 AM INFO: Hanabi server started on 127.0.0.1:1024
+05/24/2022 09:06:49 AM INFO: Connected by: ('127.0.0.1', 49696)
+05/24/2022 09:07:00 AM INFO: Connected by: ('127.0.0.1', 49699)
+05/24/2022 09:08:55 AM INFO: Hanabi server started on 127.0.0.1:1024
+05/24/2022 09:08:59 AM INFO: Connected by: ('127.0.0.1', 58845)
+05/24/2022 09:08:59 AM INFO: Player connected: AI_Carolina
+05/24/2022 09:09:02 AM INFO: Connected by: ('127.0.0.1', 58848)
+05/24/2022 09:09:02 AM INFO: Player connected: AI_Marco
+05/24/2022 09:09:41 AM INFO: Player ready: AI_Marco
+05/24/2022 09:09:49 AM INFO: Player ready: AI_Carolina
+05/24/2022 09:09:49 AM INFO: Game start! Between: ['AI_Carolina', 'AI_Marco']
+05/24/2022 09:09:49 AM INFO: Ok, let's start the game!
+05/24/2022 09:09:49 AM INFO: Showing hand to: AI_Carolina
+05/24/2022 09:09:49 AM INFO: Showing hand to: AI_Marco
+05/24/2022 09:13:17 AM INFO: Hanabi server started on 127.0.0.1:1024
+05/24/2022 09:13:21 AM INFO: Connected by: ('127.0.0.1', 58971)
+05/24/2022 09:13:21 AM INFO: Player connected: AI_Marco
+05/24/2022 09:13:24 AM INFO: Connected by: ('127.0.0.1', 58974)
+05/24/2022 09:13:24 AM INFO: Player connected: AI_Carolina
+05/24/2022 09:13:26 AM INFO: Player ready: AI_Carolina
+05/24/2022 09:13:34 AM INFO: Player ready: AI_Marco
+05/24/2022 09:13:34 AM INFO: Game start! Between: ['AI_Marco', 'AI_Carolina']
+05/24/2022 09:13:34 AM INFO: Ok, let's start the game!
+05/24/2022 09:13:34 AM INFO: Showing hand to: AI_Marco
+05/24/2022 09:13:34 AM INFO: Showing hand to: AI_Carolina
+05/24/2022 09:13:34 AM WARNING: Player disconnected: AI_Carolina
+05/24/2022 09:13:34 AM WARNING: Player disconnected: AI_Marco
+05/24/2022 09:13:34 AM INFO: Shutting down server
+05/24/2022 09:14:28 AM INFO: Hanabi server started on 127.0.0.1:1024
+05/24/2022 09:14:31 AM INFO: Connected by: ('127.0.0.1', 58988)
+05/24/2022 09:14:31 AM INFO: Player connected: AI_Carolina
+05/24/2022 09:14:32 AM INFO: Connected by: ('127.0.0.1', 58991)
+05/24/2022 09:14:32 AM INFO: Player connected: AI_Marco
+05/24/2022 09:14:34 AM INFO: Player ready: AI_Marco
+05/24/2022 09:14:42 AM INFO: Player ready: AI_Carolina
+05/24/2022 09:14:42 AM INFO: Game start! Between: ['AI_Carolina', 'AI_Marco']
+05/24/2022 09:14:42 AM INFO: Ok, let's start the game!
+05/24/2022 09:14:42 AM INFO: Showing hand to: AI_Carolina
+05/24/2022 09:14:42 AM INFO: Showing hand to: AI_Marco
+05/24/2022 09:26:05 AM INFO: Hanabi server started on 127.0.0.1:1024
+05/24/2022 09:26:08 AM INFO: Connected by: ('127.0.0.1', 59036)
+05/24/2022 09:26:08 AM INFO: Player connected: AI_Marco
+05/24/2022 09:26:09 AM INFO: Connected by: ('127.0.0.1', 59039)
+05/24/2022 09:26:09 AM INFO: Player connected: AI_Carolina
+05/24/2022 09:26:13 AM INFO: Player ready: AI_Carolina
+05/24/2022 09:26:13 AM WARNING: Player disconnected: AI_Carolina
+05/24/2022 09:26:31 AM INFO: Hanabi server started on 127.0.0.1:1024
+05/24/2022 09:26:33 AM INFO: Connected by: ('127.0.0.1', 59042)
+05/24/2022 09:26:33 AM INFO: Player connected: AI_Carolina
+05/24/2022 09:26:36 AM INFO: Connected by: ('127.0.0.1', 59045)
+05/24/2022 09:26:36 AM INFO: Player connected: AI_Marco
+05/24/2022 09:26:39 AM INFO: Player ready: AI_Marco
+05/24/2022 09:26:46 AM INFO: Player ready: AI_Carolina
+05/24/2022 09:26:46 AM INFO: Game start! Between: ['AI_Carolina', 'AI_Marco']
+05/24/2022 09:26:46 AM INFO: Ok, let's start the game!
+05/24/2022 09:26:46 AM INFO: Showing hand to: AI_Carolina
+05/24/2022 09:26:46 AM INFO: Showing hand to: AI_Marco
+05/24/2022 10:19:16 AM INFO: Hanabi server started on 127.0.0.1:1024
+05/24/2022 10:19:20 AM INFO: Connected by: ('127.0.0.1', 63713)
+05/24/2022 10:19:20 AM INFO: Player connected: AI_Marco
+05/24/2022 10:19:21 AM INFO: Connected by: ('127.0.0.1', 63716)
+05/24/2022 10:19:21 AM INFO: Player connected: AI_Carolina
+05/24/2022 10:19:24 AM INFO: Connected by: ('127.0.0.1', 63719)
+05/24/2022 10:19:24 AM WARNING: Duplicate player: AI_Carolina
+05/24/2022 10:19:28 AM INFO: Hanabi server started on 127.0.0.1:1024
+05/24/2022 10:19:38 AM INFO: Hanabi server started on 127.0.0.1:1024
+05/24/2022 10:19:40 AM INFO: Connected by: ('127.0.0.1', 63723)
+05/24/2022 10:19:40 AM INFO: Player connected: AI_Marco
+05/24/2022 10:19:42 AM INFO: Connected by: ('127.0.0.1', 63726)
+05/24/2022 10:19:42 AM INFO: Player connected: AI_Carolina
+05/24/2022 10:19:47 AM INFO: Player ready: AI_Carolina
+05/24/2022 10:19:52 AM INFO: Player ready: AI_Marco
+05/24/2022 10:19:52 AM INFO: Game start! Between: ['AI_Marco', 'AI_Carolina']
+05/24/2022 10:19:52 AM INFO: Ok, let's start the game!
+05/24/2022 10:19:52 AM INFO: Showing hand to: AI_Marco
+05/24/2022 10:19:52 AM INFO: Showing hand to: AI_Carolina
+05/24/2022 10:20:45 AM WARNING: Impossible discarding a card: there is no used token available
+05/24/2022 10:22:32 AM INFO: Player AI_Marco providing hint to AI_Carolina: cards with color yellow are in positions: [0, 1]
+05/24/2022 10:23:06 AM INFO: Player: AI_Carolina: card 31 discarded successfully
+05/24/2022 10:24:44 AM INFO: Hanabi server started on 127.0.0.1:1024
+05/24/2022 10:24:46 AM INFO: Connected by: ('127.0.0.1', 63752)
+05/24/2022 10:24:46 AM INFO: Player connected: AI_Carolina
+05/24/2022 10:24:48 AM INFO: Connected by: ('127.0.0.1', 63756)
+05/24/2022 10:24:48 AM INFO: Player connected: AI_Marco
+05/24/2022 10:24:52 AM INFO: Player ready: AI_Marco
+05/24/2022 10:24:56 AM INFO: Player ready: AI_Carolina
+05/24/2022 10:24:56 AM INFO: Game start! Between: ['AI_Carolina', 'AI_Marco']
+05/24/2022 10:24:56 AM INFO: Ok, let's start the game!
+05/24/2022 10:24:56 AM INFO: Showing hand to: AI_Carolina
+05/24/2022 10:24:56 AM INFO: Showing hand to: AI_Marco
+05/24/2022 10:25:14 AM INFO: Player AI_Carolina providing hint to AI_Marco: cards with color yellow are in positions: [0, 4]
+05/24/2022 10:25:25 AM INFO: Player: AI_Marco: card 1 discarded successfully
+05/24/2022 10:31:02 AM INFO: Showing hand to: AI_Marco
+05/24/2022 10:31:13 AM INFO: Showing hand to: AI_Carolina
+05/24/2022 10:43:12 AM INFO: Hanabi server started on 127.0.0.1:1024
+05/24/2022 10:43:17 AM INFO: Connected by: ('127.0.0.1', 63809)
+05/24/2022 10:43:17 AM INFO: Player connected: AI_Marco
+05/24/2022 10:43:21 AM INFO: Connected by: ('127.0.0.1', 63812)
+05/24/2022 10:43:21 AM INFO: Player connected: AI_Carolina
+05/24/2022 10:43:26 AM INFO: Player ready: AI_Carolina
+05/24/2022 10:43:29 AM INFO: Player ready: AI_Marco
+05/24/2022 10:43:29 AM INFO: Game start! Between: ['AI_Marco', 'AI_Carolina']
+05/24/2022 10:43:29 AM INFO: Ok, let's start the game!
+05/24/2022 10:43:29 AM INFO: Showing hand to: AI_Marco
+05/24/2022 10:43:29 AM INFO: Showing hand to: AI_Carolina
+05/24/2022 10:43:29 AM WARNING: Player disconnected: AI_Carolina
+05/24/2022 10:43:29 AM WARNING: Player disconnected: AI_Marco
+05/24/2022 10:43:29 AM INFO: Shutting down server
+05/24/2022 10:44:09 AM INFO: Hanabi server started on 127.0.0.1:1024
+05/24/2022 10:44:10 AM INFO: Connected by: ('127.0.0.1', 63821)
+05/24/2022 10:44:10 AM INFO: Player connected: AI_Carolina
+05/24/2022 10:44:12 AM INFO: Connected by: ('127.0.0.1', 63824)
+05/24/2022 10:44:12 AM INFO: Player connected: AI_Marco
+05/24/2022 10:44:14 AM INFO: Player ready: AI_Marco
+05/24/2022 10:44:17 AM INFO: Player ready: AI_Carolina
+05/24/2022 10:44:17 AM INFO: Game start! Between: ['AI_Carolina', 'AI_Marco']
+05/24/2022 10:44:17 AM INFO: Ok, let's start the game!
+05/24/2022 10:44:17 AM INFO: Showing hand to: AI_Carolina
+05/24/2022 10:44:17 AM INFO: Showing hand to: AI_Marco
+05/24/2022 10:44:17 AM WARNING: Player disconnected: AI_Carolina
+05/24/2022 10:44:17 AM WARNING: Player disconnected: AI_Marco
+05/24/2022 10:44:17 AM INFO: Shutting down server
+05/24/2022 10:44:48 AM INFO: Hanabi server started on 127.0.0.1:1024
+05/24/2022 10:44:51 AM INFO: Connected by: ('127.0.0.1', 63833)
+05/24/2022 10:44:51 AM INFO: Player connected: AI_Carolina
+05/24/2022 10:44:52 AM INFO: Connected by: ('127.0.0.1', 63836)
+05/24/2022 10:44:52 AM INFO: Player connected: AI_Marco
+05/24/2022 10:44:54 AM INFO: Player ready: AI_Marco
+05/24/2022 10:44:59 AM INFO: Player ready: AI_Carolina
+05/24/2022 10:44:59 AM INFO: Game start! Between: ['AI_Carolina', 'AI_Marco']
+05/24/2022 10:44:59 AM INFO: Ok, let's start the game!
+05/24/2022 10:44:59 AM INFO: Showing hand to: AI_Carolina
+05/24/2022 10:44:59 AM INFO: Showing hand to: AI_Marco
+05/24/2022 10:44:59 AM WARNING: Player disconnected: AI_Carolina
+05/24/2022 10:44:59 AM WARNING: Player disconnected: AI_Marco
+05/24/2022 10:44:59 AM INFO: Shutting down server
+05/24/2022 10:48:47 AM INFO: Hanabi server started on 127.0.0.1:1024
+05/24/2022 10:48:51 AM INFO: Connected by: ('127.0.0.1', 63914)
+05/24/2022 10:48:51 AM INFO: Player connected: AI_Marco
+05/24/2022 10:48:53 AM INFO: Connected by: ('127.0.0.1', 63917)
+05/24/2022 10:48:53 AM INFO: Player connected: AI_Carolina
+05/24/2022 10:48:55 AM INFO: Player ready: AI_Carolina
+05/24/2022 10:48:58 AM INFO: Player ready: AI_Marco
+05/24/2022 10:48:58 AM INFO: Game start! Between: ['AI_Marco', 'AI_Carolina']
+05/24/2022 10:48:58 AM INFO: Ok, let's start the game!
+05/24/2022 10:48:58 AM INFO: Showing hand to: AI_Marco
+05/24/2022 10:48:58 AM INFO: Showing hand to: AI_Carolina
+05/24/2022 10:48:58 AM WARNING: Player disconnected: AI_Marco
+05/24/2022 10:48:58 AM WARNING: Player disconnected: AI_Carolina
+05/24/2022 10:48:58 AM INFO: Shutting down server
+05/24/2022 10:57:13 AM INFO: Hanabi server started on 127.0.0.1:1024
+05/24/2022 10:57:16 AM INFO: Connected by: ('127.0.0.1', 64019)
+05/24/2022 10:57:16 AM INFO: Player connected: AI_Marco
+05/24/2022 11:01:04 AM INFO: Hanabi server started on 127.0.0.1:1024
+05/24/2022 11:05:10 AM INFO: Hanabi server started on 127.0.0.1:1024
+05/24/2022 11:05:15 AM INFO: Connected by: ('127.0.0.1', 64056)
+05/24/2022 11:05:15 AM INFO: Player connected: AI_Marco
+05/24/2022 11:05:17 AM INFO: Connected by: ('127.0.0.1', 64059)
+05/24/2022 11:05:17 AM INFO: Player connected: AI_Carolina
+05/24/2022 11:05:19 AM INFO: Player ready: AI_Carolina
+05/24/2022 11:05:23 AM INFO: Player ready: AI_Marco
+05/24/2022 11:05:23 AM INFO: Game start! Between: ['AI_Marco', 'AI_Carolina']
+05/24/2022 11:05:23 AM INFO: Ok, let's start the game!
+05/24/2022 11:05:23 AM INFO: Showing hand to: AI_Marco
+05/24/2022 11:05:23 AM INFO: Showing hand to: AI_Carolina
+05/24/2022 11:05:23 AM WARNING: Player disconnected: AI_Marco
+05/24/2022 11:05:23 AM WARNING: Player disconnected: AI_Carolina
+05/24/2022 11:05:23 AM INFO: Shutting down server
+05/24/2022 11:06:21 AM INFO: Hanabi server started on 127.0.0.1:1024
+05/24/2022 11:06:31 AM INFO: Connected by: ('127.0.0.1', 64072)
+05/24/2022 11:06:31 AM INFO: Player connected: AI_Marco
+05/24/2022 11:06:33 AM INFO: Connected by: ('127.0.0.1', 64075)
+05/24/2022 11:06:33 AM INFO: Player connected: AI_Carolina
+05/24/2022 11:06:35 AM INFO: Player ready: AI_Carolina
+05/24/2022 11:06:39 AM INFO: Player ready: AI_Marco
+05/24/2022 11:06:39 AM INFO: Game start! Between: ['AI_Marco', 'AI_Carolina']
+05/24/2022 11:06:39 AM INFO: Ok, let's start the game!
+05/24/2022 11:06:39 AM INFO: Showing hand to: AI_Marco
+05/24/2022 11:06:39 AM INFO: Showing hand to: AI_Carolina
+05/24/2022 11:08:22 AM INFO: Hanabi server started on 127.0.0.1:1024
+05/24/2022 11:08:28 AM INFO: Connected by: ('127.0.0.1', 64121)
+05/24/2022 11:08:28 AM INFO: Player connected: AI_Marco
+05/24/2022 11:08:32 AM INFO: Connected by: ('127.0.0.1', 64125)
+05/24/2022 11:08:32 AM INFO: Player connected: AI_Carolina
+05/24/2022 11:08:35 AM INFO: Player ready: AI_Carolina
+05/24/2022 11:08:37 AM INFO: Player ready: AI_Marco
+05/24/2022 11:08:37 AM INFO: Game start! Between: ['AI_Marco', 'AI_Carolina']
+05/24/2022 11:08:37 AM INFO: Ok, let's start the game!
+05/24/2022 11:08:37 AM INFO: Showing hand to: AI_Marco
+05/24/2022 11:08:37 AM INFO: Showing hand to: AI_Carolina
+05/24/2022 11:11:22 AM INFO: Player AI_Marco providing hint to AI_Carolina: cards with value 2 are in positions: [2]
+05/24/2022 11:11:32 AM INFO: Player: AI_Carolina: card 24 discarded successfully
+05/24/2022 11:37:42 AM INFO: Hanabi server started on 127.0.0.1:1024
+05/24/2022 11:37:47 AM INFO: Connected by: ('127.0.0.1', 64227)
+05/24/2022 11:37:47 AM INFO: Connected by: ('127.0.0.1', 64226)
+05/24/2022 11:37:47 AM INFO: Player connected: AI_Carolina
+05/24/2022 11:37:47 AM INFO: Player connected: AI_Marco
+05/24/2022 11:37:49 AM INFO: Player ready: AI_Carolina
+05/24/2022 11:37:52 AM INFO: Player ready: AI_Marco
+05/24/2022 11:37:52 AM INFO: Game start! Between: ['AI_Carolina', 'AI_Marco']
+05/24/2022 11:37:52 AM INFO: Ok, let's start the game!
+05/24/2022 11:37:52 AM INFO: Showing hand to: AI_Carolina
+05/24/2022 11:37:52 AM INFO: Showing hand to: AI_Marco
+05/24/2022 11:38:39 AM INFO: Player AI_Carolina providing hint to AI_Marco: cards with value 1 are in positions: [2]
+05/24/2022 11:39:02 AM INFO: Player: AI_Marco: card 15 discarded successfully
+05/24/2022 11:39:02 AM WARNING: Player disconnected: AI_Carolina
+05/24/2022 11:41:07 AM INFO: Hanabi server started on 127.0.0.1:1024
+05/24/2022 11:41:13 AM INFO: Connected by: ('127.0.0.1', 64272)
+05/24/2022 11:41:13 AM INFO: Player connected: AI_Carolina
+05/24/2022 11:41:13 AM INFO: Connected by: ('127.0.0.1', 64273)
+05/24/2022 11:41:13 AM INFO: Player connected: AI_Marco
+05/24/2022 11:41:17 AM INFO: Player ready: AI_Marco
+05/24/2022 11:41:21 AM INFO: Player ready: AI_Carolina
+05/24/2022 11:41:21 AM INFO: Game start! Between: ['AI_Carolina', 'AI_Marco']
+05/24/2022 11:41:21 AM INFO: Ok, let's start the game!
+05/24/2022 11:41:21 AM INFO: Showing hand to: AI_Carolina
+05/24/2022 11:41:21 AM INFO: Showing hand to: AI_Marco
+05/24/2022 11:41:40 AM INFO: Player AI_Carolina providing hint to AI_Marco: cards with value 1 are in positions: [1, 2]
+05/24/2022 11:41:58 AM INFO: Player: AI_Marco: card 42 discarded successfully
+05/24/2022 11:41:58 AM WARNING: Player disconnected: AI_Carolina
+05/24/2022 11:42:56 AM INFO: Hanabi server started on 127.0.0.1:1024
+05/24/2022 11:42:59 AM INFO: Connected by: ('127.0.0.1', 64304)
+05/24/2022 11:42:59 AM INFO: Player connected: AI_Marco
+05/24/2022 11:43:01 AM INFO: Connected by: ('127.0.0.1', 64307)
+05/24/2022 11:43:01 AM INFO: Player connected: AI_Carolina
+05/24/2022 11:43:04 AM INFO: Player ready: AI_Carolina
+05/24/2022 11:43:07 AM INFO: Player ready: AI_Marco
+05/24/2022 11:43:07 AM INFO: Game start! Between: ['AI_Marco', 'AI_Carolina']
+05/24/2022 11:43:07 AM INFO: Ok, let's start the game!
+05/24/2022 11:43:07 AM INFO: Showing hand to: AI_Marco
+05/24/2022 11:43:07 AM INFO: Showing hand to: AI_Carolina
+05/24/2022 11:43:37 AM INFO: Player AI_Marco providing hint to AI_Carolina: cards with value 1 are in positions: [1]
+05/24/2022 11:43:44 AM INFO: Player: AI_Carolina: card 26 discarded successfully
+05/24/2022 11:58:16 AM INFO: Hanabi server started on 127.0.0.1:1024
+05/24/2022 11:58:21 AM INFO: Connected by: ('127.0.0.1', 64363)
+05/24/2022 11:58:21 AM INFO: Player connected: AI_Marco
+05/24/2022 11:58:24 AM INFO: Connected by: ('127.0.0.1', 64367)
+05/24/2022 11:58:24 AM INFO: Player connected: AI_Carolina
+05/24/2022 11:58:28 AM INFO: Player ready: AI_Carolina
+05/24/2022 11:58:34 AM INFO: Player ready: AI_Marco
+05/24/2022 11:58:34 AM INFO: Game start! Between: ['AI_Marco', 'AI_Carolina']
+05/24/2022 11:58:34 AM INFO: Ok, let's start the game!
+05/24/2022 11:58:34 AM INFO: Showing hand to: AI_Marco
+05/24/2022 11:58:34 AM INFO: Showing hand to: AI_Carolina
+05/24/2022 11:59:24 AM INFO: Player AI_Marco providing hint to AI_Carolina: cards with value 1 are in positions: [0, 3]
+05/24/2022 11:59:30 AM INFO: Player: AI_Carolina: card 4 discarded successfully
+05/24/2022 11:59:30 AM WARNING: Player disconnected: AI_Marco
+05/24/2022 11:59:30 AM WARNING: Player disconnected: AI_Carolina
+05/24/2022 11:59:30 AM INFO: Shutting down server
+05/24/2022 12:00:37 PM INFO: Hanabi server started on 127.0.0.1:1024
+05/24/2022 12:00:46 PM INFO: Connected by: ('127.0.0.1', 64395)
+05/24/2022 12:00:46 PM INFO: Player connected: marco
+05/24/2022 12:00:47 PM INFO: Connected by: ('127.0.0.1', 64398)
+05/24/2022 12:00:47 PM INFO: Player connected: carolina
+05/24/2022 12:00:59 PM INFO: Player ready: carolina
+05/24/2022 12:01:03 PM INFO: Player ready: marco
+05/24/2022 12:01:03 PM INFO: Game start! Between: ['marco', 'carolina']
+05/24/2022 12:01:03 PM INFO: Ok, let's start the game!
+05/24/2022 12:01:03 PM INFO: Showing hand to: marco
+05/24/2022 12:01:03 PM INFO: Showing hand to: carolina
+05/24/2022 12:01:18 PM INFO: Player marco providing hint to carolina: cards with value 1 are in positions: [0, 1, 2]
+05/24/2022 12:01:33 PM INFO: Player: carolina: card 10 discarded successfully
+05/24/2022 12:01:33 PM INFO: Showing hand to: marco
+05/24/2022 12:01:33 PM INFO: Showing hand to: carolina
+05/24/2022 12:01:33 PM WARNING: Player disconnected: marco
+05/24/2022 12:01:33 PM WARNING: Player disconnected: carolina
+05/24/2022 12:01:33 PM INFO: Shutting down server
+05/24/2022 12:02:19 PM INFO: Hanabi server started on 127.0.0.1:1024
+05/24/2022 12:02:20 PM INFO: Connected by: ('127.0.0.1', 64438)
+05/24/2022 12:02:20 PM INFO: Player connected: carolina
+05/24/2022 12:02:21 PM INFO: Connected by: ('127.0.0.1', 64442)
+05/24/2022 12:02:21 PM INFO: Player connected: marco
+05/24/2022 12:02:23 PM INFO: Player ready: carolina
+05/24/2022 12:02:25 PM INFO: Player ready: marco
+05/24/2022 12:02:25 PM INFO: Game start! Between: ['carolina', 'marco']
+05/24/2022 12:02:25 PM INFO: Ok, let's start the game!
+05/24/2022 12:02:25 PM INFO: Showing hand to: carolina
+05/24/2022 12:02:25 PM INFO: Showing hand to: marco
+05/24/2022 12:02:36 PM INFO: Player carolina providing hint to marco: cards with value 3 are in positions: [2, 4]
+05/24/2022 12:02:44 PM INFO: Player: marco: card 47 discarded successfully
+05/24/2022 12:02:44 PM INFO: Showing hand to: carolina
+05/24/2022 12:02:44 PM INFO: Showing hand to: marco
+05/24/2022 12:02:44 PM WARNING: Player disconnected: marco
+05/24/2022 12:05:29 PM INFO: Hanabi server started on 127.0.0.1:1024
+05/24/2022 12:05:34 PM INFO: Connected by: ('127.0.0.1', 64486)
+05/24/2022 12:05:34 PM INFO: Player connected: carolina
+05/24/2022 12:05:34 PM INFO: Connected by: ('127.0.0.1', 64487)
+05/24/2022 12:05:34 PM INFO: Player connected: marco
+05/24/2022 12:05:37 PM INFO: Player ready: carolina
+05/24/2022 12:05:39 PM INFO: Player ready: marco
+05/24/2022 12:05:39 PM INFO: Game start! Between: ['carolina', 'marco']
+05/24/2022 12:05:39 PM INFO: Ok, let's start the game!
+05/24/2022 12:05:39 PM INFO: Showing hand to: carolina
+05/24/2022 12:05:39 PM INFO: Showing hand to: marco
+05/24/2022 12:06:00 PM INFO: Player carolina providing hint to marco: cards with value 1 are in positions: [0, 2]
+05/24/2022 12:06:05 PM INFO: Player: marco: card 5 discarded successfully
+05/24/2022 12:06:05 PM INFO: Showing hand to: marco
+05/24/2022 12:06:05 PM INFO: Showing hand to: carolina
+05/24/2022 12:06:17 PM INFO: Showing hand to: marco
+05/24/2022 12:07:24 PM INFO: Showing hand to: carolina
+05/24/2022 12:27:06 PM INFO: Hanabi server started on 127.0.0.1:1024
+05/24/2022 12:27:12 PM INFO: Hanabi server started on 127.0.0.1:1024
+05/24/2022 12:27:16 PM INFO: Connected by: ('127.0.0.1', 64589)
+05/24/2022 12:27:16 PM INFO: Connected by: ('127.0.0.1', 64590)
+05/24/2022 12:27:16 PM INFO: Player connected: marco
+05/24/2022 12:27:16 PM INFO: Player connected: carolina
+05/24/2022 12:27:18 PM INFO: Player ready: carolina
+05/24/2022 12:27:20 PM INFO: Player ready: marco
+05/24/2022 12:27:20 PM INFO: Game start! Between: ['marco', 'carolina']
+05/24/2022 12:27:20 PM INFO: Ok, let's start the game!
+05/24/2022 12:27:20 PM INFO: Showing hand to: marco
+05/24/2022 12:27:20 PM INFO: Showing hand to: carolina
+05/24/2022 12:27:34 PM INFO: Player marco providing hint to carolina: cards with value 1 are in positions: [0, 1, 2, 3]
+05/24/2022 12:27:44 PM INFO: Player: carolina: card 7 discarded successfully
+05/24/2022 12:27:44 PM INFO: Showing hand to: marco
+05/24/2022 12:27:44 PM INFO: Showing hand to: carolina
+05/24/2022 12:27:44 PM WARNING: Player disconnected: marco
+05/24/2022 12:27:44 PM WARNING: Player disconnected: carolina
+05/24/2022 12:27:44 PM INFO: Shutting down server
+05/24/2022 12:29:05 PM INFO: Hanabi server started on 127.0.0.1:1024
+05/24/2022 12:29:07 PM INFO: Connected by: ('127.0.0.1', 64618)
+05/24/2022 12:29:07 PM INFO: Player connected: carolina
+05/24/2022 12:29:08 PM INFO: Connected by: ('127.0.0.1', 64621)
+05/24/2022 12:29:08 PM INFO: Player connected: marco
+05/24/2022 12:29:10 PM INFO: Player ready: carolina
+05/24/2022 12:29:13 PM INFO: Player ready: marco
+05/24/2022 12:29:13 PM INFO: Game start! Between: ['carolina', 'marco']
+05/24/2022 12:29:13 PM INFO: Ok, let's start the game!
+05/24/2022 12:29:13 PM INFO: Showing hand to: carolina
+05/24/2022 12:29:13 PM INFO: Showing hand to: marco
+05/24/2022 12:29:25 PM INFO: Player carolina providing hint to marco: cards with value 4 are in positions: [0, 4]
+05/24/2022 12:29:31 PM INFO: Player: marco: card 36 discarded successfully
+05/24/2022 12:29:31 PM INFO: Showing hand to: carolina
+05/24/2022 12:29:31 PM INFO: Showing hand to: marco
+05/24/2022 12:29:31 PM WARNING: Player disconnected: carolina
+05/24/2022 12:29:31 PM WARNING: Player disconnected: marco
+05/24/2022 12:29:31 PM INFO: Shutting down server
+05/24/2022 12:30:08 PM INFO: Hanabi server started on 127.0.0.1:1024
+05/24/2022 12:30:10 PM INFO: Connected by: ('127.0.0.1', 64648)
+05/24/2022 12:30:10 PM INFO: Player connected: carolina
+05/24/2022 12:30:11 PM INFO: Connected by: ('127.0.0.1', 64651)
+05/24/2022 12:30:11 PM INFO: Player connected: marco
+05/24/2022 12:30:13 PM INFO: Player ready: carolina
+05/24/2022 12:30:16 PM INFO: Player ready: marco
+05/24/2022 12:30:16 PM INFO: Game start! Between: ['carolina', 'marco']
+05/24/2022 12:30:16 PM INFO: Ok, let's start the game!
+05/24/2022 12:30:16 PM INFO: Showing hand to: marco
+05/24/2022 12:30:16 PM INFO: Showing hand to: carolina
+05/24/2022 12:30:32 PM INFO: Player carolina providing hint to marco: cards with value 1 are in positions: [0, 4]
+05/24/2022 12:32:54 PM INFO: Hanabi server started on 127.0.0.1:1024
+05/24/2022 12:32:58 PM INFO: Connected by: ('127.0.0.1', 64688)
+05/24/2022 12:32:58 PM INFO: Connected by: ('127.0.0.1', 64689)
+05/24/2022 12:32:58 PM INFO: Player connected: carolina
+05/24/2022 12:32:58 PM INFO: Player connected: marco
+05/24/2022 12:33:01 PM INFO: Player ready: carolina
+05/24/2022 12:33:04 PM INFO: Player ready: marco
+05/24/2022 12:33:04 PM INFO: Game start! Between: ['carolina', 'marco']
+05/24/2022 12:33:04 PM INFO: Ok, let's start the game!
+05/24/2022 12:33:04 PM INFO: Showing hand to: carolina
+05/24/2022 12:33:04 PM INFO: Showing hand to: marco
+05/24/2022 12:33:28 PM INFO: Player carolina providing hint to marco: cards with value 1 are in positions: [1, 3]
+05/24/2022 12:33:31 PM INFO: Player: marco: card 1 discarded successfully
+05/24/2022 12:33:31 PM INFO: Showing hand to: carolina
+05/24/2022 12:33:31 PM INFO: Showing hand to: marco
+05/24/2022 12:33:31 PM WARNING: Player disconnected: carolina
+05/24/2022 12:33:31 PM WARNING: Player disconnected: marco
+05/24/2022 12:33:31 PM INFO: Shutting down server
+05/24/2022 12:35:44 PM INFO: Hanabi server started on 127.0.0.1:1024
+05/24/2022 12:35:49 PM INFO: Connected by: ('127.0.0.1', 64725)
+05/24/2022 12:35:49 PM INFO: Connected by: ('127.0.0.1', 64726)
+05/24/2022 12:35:49 PM INFO: Player connected: marco
+05/24/2022 12:35:49 PM INFO: Player connected: carolina
+05/24/2022 12:35:52 PM INFO: Player ready: carolina
+05/24/2022 12:35:54 PM INFO: Player ready: marco
+05/24/2022 12:35:54 PM INFO: Game start! Between: ['marco', 'carolina']
+05/24/2022 12:35:54 PM INFO: Ok, let's start the game!
+05/24/2022 12:35:54 PM INFO: Showing hand to: marco
+05/24/2022 12:35:54 PM INFO: Showing hand to: carolina
+05/24/2022 12:36:24 PM INFO: Player marco providing hint to carolina: cards with value 1 are in positions: [1, 2]
+05/24/2022 12:36:31 PM INFO: Player: carolina: card 10 discarded successfully
+05/24/2022 12:36:31 PM INFO: Showing hand to: marco
+05/24/2022 12:36:31 PM INFO: Showing hand to: carolina
+05/24/2022 12:38:21 PM INFO: Hanabi server started on 127.0.0.1:1024
+05/24/2022 12:38:24 PM INFO: Connected by: ('127.0.0.1', 64767)
+05/24/2022 12:38:24 PM INFO: Connected by: ('127.0.0.1', 64766)
+05/24/2022 12:38:24 PM INFO: Player connected: carolina
+05/24/2022 12:38:24 PM INFO: Player connected: marco
+05/24/2022 12:38:26 PM INFO: Player ready: carolina
+05/24/2022 12:38:28 PM INFO: Player ready: marco
+05/24/2022 12:38:28 PM INFO: Game start! Between: ['carolina', 'marco']
+05/24/2022 12:38:28 PM INFO: Ok, let's start the game!
+05/24/2022 12:38:28 PM INFO: Showing hand to: carolina
+05/24/2022 12:38:28 PM INFO: Showing hand to: marco
+05/24/2022 12:38:57 PM INFO: Player carolina providing hint to marco: cards with value 1 are in positions: [1]
+05/24/2022 12:39:00 PM INFO: Player: marco: card 2 discarded successfully
+05/24/2022 12:39:00 PM INFO: Showing hand to: carolina
+05/24/2022 12:39:00 PM INFO: Showing hand to: marco
+05/24/2022 12:40:55 PM INFO: Hanabi server started on 127.0.0.1:1024
+05/24/2022 12:41:30 PM INFO: Connected by: ('127.0.0.1', 64811)
+05/24/2022 12:41:30 PM INFO: Connected by: ('127.0.0.1', 64810)
+05/24/2022 12:41:30 PM INFO: Player connected: marco
+05/24/2022 12:41:30 PM INFO: Player connected: carolina
+05/24/2022 12:41:32 PM INFO: Player ready: carolina
+05/24/2022 12:41:35 PM INFO: Player ready: marco
+05/24/2022 12:41:35 PM INFO: Game start! Between: ['marco', 'carolina']
+05/24/2022 12:41:35 PM INFO: Ok, let's start the game!
+05/24/2022 12:41:35 PM INFO: Showing hand to: marco
+05/24/2022 12:41:35 PM INFO: Showing hand to: carolina
+05/24/2022 12:41:48 PM INFO: Player marco providing hint to carolina: cards with value 1 are in positions: [3]
+05/24/2022 12:41:54 PM INFO: Player: carolina: card 38 discarded successfully
+05/24/2022 12:41:54 PM INFO: Showing hand to: marco
+05/24/2022 12:41:54 PM INFO: Showing hand to: carolina
+05/24/2022 12:44:01 PM INFO: Hanabi server started on 127.0.0.1:1024
+05/24/2022 12:44:05 PM INFO: Connected by: ('127.0.0.1', 64854)
+05/24/2022 12:44:05 PM INFO: Player connected: marco
+05/24/2022 12:44:05 PM INFO: Connected by: ('127.0.0.1', 64855)
+05/24/2022 12:44:05 PM INFO: Player connected: carolina
+05/24/2022 12:44:08 PM INFO: Player ready: carolina
+05/24/2022 12:44:10 PM INFO: Player ready: marco
+05/24/2022 12:44:10 PM INFO: Game start! Between: ['marco', 'carolina']
+05/24/2022 12:44:10 PM INFO: Ok, let's start the game!
+05/24/2022 12:44:10 PM INFO: Showing hand to: marco
+05/24/2022 12:44:10 PM INFO: Showing hand to: carolina
+05/24/2022 12:44:20 PM INFO: Player marco providing hint to carolina: cards with value 3 are in positions: [2, 4]
+05/24/2022 12:44:24 PM INFO: Player: carolina: card 21 discarded successfully
+05/24/2022 12:44:24 PM INFO: Showing hand to: carolina
+05/24/2022 12:44:24 PM INFO: Showing hand to: marco
+05/24/2022 12:44:24 PM WARNING: Player disconnected: marco
+05/24/2022 12:44:24 PM WARNING: Player disconnected: carolina
+05/24/2022 12:44:24 PM INFO: Shutting down server
+05/24/2022 12:45:11 PM INFO: Hanabi server started on 127.0.0.1:1024
+05/24/2022 12:45:13 PM INFO: Connected by: ('127.0.0.1', 64883)
+05/24/2022 12:45:13 PM INFO: Player connected: carolina
+05/24/2022 12:45:13 PM INFO: Connected by: ('127.0.0.1', 64886)
+05/24/2022 12:45:13 PM INFO: Player connected: marco
+05/24/2022 12:45:18 PM INFO: Player ready: carolina
+05/24/2022 12:45:21 PM INFO: Player ready: marco
+05/24/2022 12:45:21 PM INFO: Game start! Between: ['carolina', 'marco']
+05/24/2022 12:45:21 PM INFO: Ok, let's start the game!
+05/24/2022 12:45:21 PM INFO: Showing hand to: carolina
+05/24/2022 12:45:21 PM INFO: Showing hand to: marco
+05/24/2022 12:45:36 PM INFO: Player carolina providing hint to marco: cards with value 1 are in positions: [2]
+05/24/2022 12:45:39 PM INFO: Player: marco: card 34 discarded successfully
+05/24/2022 12:45:39 PM INFO: Showing hand to: carolina
+05/24/2022 12:45:39 PM INFO: Showing hand to: marco
+05/24/2022 12:47:18 PM INFO: Showing hand to: carolina
+05/24/2022 12:50:42 PM INFO: Showing hand to: carolina
+05/24/2022 12:51:22 PM INFO: Player carolina providing hint to marco: cards with value 1 are in positions: [1]
+05/24/2022 12:51:26 PM INFO: Player: marco: card 15 discarded successfully
+05/24/2022 12:51:26 PM INFO: Showing hand to: carolina
+05/24/2022 12:51:26 PM INFO: Showing hand to: marco
+05/24/2022 12:51:33 PM INFO: Showing hand to: carolina
+05/24/2022 12:54:40 PM INFO: Hanabi server started on 127.0.0.1:1024
+05/24/2022 12:54:43 PM INFO: Connected by: ('127.0.0.1', 64958)
+05/24/2022 12:54:43 PM INFO: Connected by: ('127.0.0.1', 64959)
+05/24/2022 12:54:43 PM INFO: Player connected: marco
+05/24/2022 12:54:43 PM INFO: Player connected: carolina
+05/24/2022 12:54:52 PM INFO: Player ready: marco
+05/24/2022 12:54:54 PM INFO: Player ready: carolina
+05/24/2022 12:54:54 PM INFO: Game start! Between: ['marco', 'carolina']
+05/24/2022 12:54:54 PM INFO: Ok, let's start the game!
+05/24/2022 12:54:54 PM INFO: Showing hand to: marco
+05/24/2022 12:54:54 PM INFO: Showing hand to: carolina
+05/24/2022 12:55:16 PM INFO: Player marco providing hint to carolina: cards with value 1 are in positions: [0]
+05/24/2022 12:55:21 PM INFO: Player: carolina: card 42 discarded successfully
+05/24/2022 12:55:21 PM INFO: Showing hand to: marco
+05/24/2022 12:55:21 PM INFO: Showing hand to: carolina
+05/24/2022 12:55:26 PM INFO: Showing hand to: carolina
+05/24/2022 12:58:06 PM INFO: Player marco providing hint to carolina: cards with value 1 are in positions: [0]
+05/24/2022 12:58:11 PM INFO: Player: carolina: card 13 discarded successfully
+05/24/2022 12:58:11 PM INFO: Showing hand to: marco
+05/24/2022 12:58:11 PM INFO: Showing hand to: carolina
+05/24/2022 12:58:14 PM INFO: Showing hand to: carolina
+05/24/2022 12:58:57 PM INFO: Showing hand to: marco
+05/24/2022 12:59:02 PM INFO: Player marco providing hint to carolina: cards with value 2 are in positions: [2]
+05/24/2022 12:59:06 PM INFO: Player: carolina: card 26 discarded successfully
+05/24/2022 12:59:06 PM INFO: Showing hand to: marco
+05/24/2022 12:59:06 PM INFO: Showing hand to: carolina
+05/24/2022 12:59:09 PM INFO: Showing hand to: carolina
+05/24/2022 12:59:20 PM INFO: Showing hand to: marco
+05/24/2022 01:01:53 PM INFO: Hanabi server started on 127.0.0.1:1024
+05/24/2022 01:01:57 PM INFO: Connected by: ('127.0.0.1', 61798)
+05/24/2022 01:01:57 PM INFO: Connected by: ('127.0.0.1', 61799)
+05/24/2022 01:01:57 PM INFO: Player connected: marco
+05/24/2022 01:01:57 PM INFO: Player connected: carolina
+05/24/2022 01:01:59 PM INFO: Player ready: carolina
+05/24/2022 01:02:03 PM INFO: Player ready: marco
+05/24/2022 01:02:03 PM INFO: Game start! Between: ['marco', 'carolina']
+05/24/2022 01:02:03 PM INFO: Ok, let's start the game!
+05/24/2022 01:02:03 PM INFO: Showing hand to: marco
+05/24/2022 01:02:03 PM INFO: Showing hand to: carolina
+05/24/2022 01:02:22 PM INFO: Player marco providing hint to carolina: cards with value 1 are in positions: [0, 2]
+05/24/2022 01:02:28 PM INFO: Player: carolina: card 14 discarded successfully
+05/24/2022 01:02:28 PM INFO: Showing hand to: carolina
+05/24/2022 01:02:28 PM INFO: Showing hand to: marco
+05/24/2022 01:02:44 PM INFO: Showing hand to: marco
+05/24/2022 01:05:36 PM INFO: Hanabi server started on 127.0.0.1:1024
+05/24/2022 01:05:40 PM INFO: Connected by: ('127.0.0.1', 61849)
+05/24/2022 01:05:40 PM INFO: Player connected: carolina
+05/24/2022 01:05:41 PM INFO: Connected by: ('127.0.0.1', 61852)
+05/24/2022 01:05:41 PM INFO: Player connected: marco
+05/24/2022 01:05:46 PM INFO: Player ready: carolina
+05/24/2022 01:05:48 PM INFO: Player ready: marco
+05/24/2022 01:05:48 PM INFO: Game start! Between: ['carolina', 'marco']
+05/24/2022 01:05:48 PM INFO: Ok, let's start the game!
+05/24/2022 01:05:48 PM INFO: Showing hand to: carolina
+05/24/2022 01:05:48 PM INFO: Showing hand to: marco
+05/24/2022 01:06:28 PM INFO: Player carolina providing hint to marco: cards with value 1 are in positions: [3]
+05/24/2022 01:06:32 PM INFO: Player: marco: card 21 discarded successfully
+05/24/2022 01:06:32 PM INFO: Showing hand to: carolina
+05/24/2022 01:06:32 PM INFO: Showing hand to: marco
+05/24/2022 01:06:35 PM INFO: Showing hand to: carolina
+05/25/2022 05:13:56 PM INFO: Hanabi server started on 127.0.0.1:1024
+05/25/2022 05:14:03 PM INFO: Connected by: ('127.0.0.1', 55987)
+05/25/2022 05:14:03 PM INFO: Player connected: marco
+05/25/2022 05:14:09 PM INFO: Connected by: ('127.0.0.1', 55991)
+05/25/2022 05:14:09 PM INFO: Player connected: carolina
+05/25/2022 05:14:17 PM INFO: Player ready: carolina
+05/25/2022 05:14:20 PM INFO: Player ready: marco
+05/25/2022 05:14:20 PM INFO: Game start! Between: ['marco', 'carolina']
+05/25/2022 05:14:20 PM INFO: Ok, let's start the game!
+05/25/2022 05:14:20 PM INFO: Showing hand to: marco
+05/25/2022 05:14:20 PM INFO: Showing hand to: carolina
+05/26/2022 01:05:19 PM INFO: Hanabi server started on 127.0.0.1:1024
+05/26/2022 01:05:33 PM INFO: Connected by: ('127.0.0.1', 54131)
+05/26/2022 01:05:33 PM INFO: Connected by: ('127.0.0.1', 54132)
+05/26/2022 01:05:33 PM INFO: Player connected: carolina
+05/26/2022 01:05:33 PM INFO: Player connected: marco
+05/26/2022 01:06:07 PM INFO: Player ready: carolina
+05/26/2022 01:06:11 PM INFO: Player ready: marco
+05/26/2022 01:06:11 PM INFO: Game start! Between: ['carolina', 'marco']
+05/26/2022 01:06:11 PM INFO: Ok, let's start the game!
+05/26/2022 01:06:11 PM INFO: Showing hand to: carolina
+05/26/2022 01:06:11 PM INFO: Showing hand to: marco
+05/26/2022 01:06:21 PM INFO: carolina: card played and correctly put on the table
+05/26/2022 01:10:01 PM INFO: Hanabi server started on 127.0.0.1:1024
+05/26/2022 01:10:06 PM INFO: Connected by: ('127.0.0.1', 54424)
+05/26/2022 01:10:06 PM INFO: Player connected: marco
+05/26/2022 01:10:06 PM INFO: Connected by: ('127.0.0.1', 54425)
+05/26/2022 01:10:06 PM INFO: Player connected: carolina
+05/26/2022 01:10:09 PM INFO: Player ready: carolina
+05/26/2022 01:10:12 PM INFO: Player ready: marco
+05/26/2022 01:10:12 PM INFO: Game start! Between: ['marco', 'carolina']
+05/26/2022 01:10:12 PM INFO: Ok, let's start the game!
+05/26/2022 01:10:12 PM INFO: Showing hand to: marco
+05/26/2022 01:10:12 PM INFO: Showing hand to: carolina
+05/26/2022 01:10:32 PM INFO: marco: card played and correctly put on the table
+05/26/2022 01:10:32 PM INFO: Showing hand to: marco
+05/26/2022 01:10:32 PM INFO: Showing hand to: carolina
+05/26/2022 01:11:49 PM INFO: Connected by: ('127.0.0.1', 52653)
+05/26/2022 01:11:53 PM INFO: Connected by: ('127.0.0.1', 52675)
+05/26/2022 01:12:05 PM INFO: Hanabi server started on 127.0.0.1:1024
+05/26/2022 01:12:07 PM INFO: Connected by: ('127.0.0.1', 52732)
+05/26/2022 01:12:07 PM INFO: Player connected: carolina
+05/26/2022 01:12:08 PM INFO: Connected by: ('127.0.0.1', 52739)
+05/26/2022 01:12:08 PM INFO: Player connected: marco
+05/26/2022 01:12:10 PM INFO: Player ready: carolina
+05/26/2022 01:12:14 PM INFO: Player ready: marco
+05/26/2022 01:12:14 PM INFO: Game start! Between: ['carolina', 'marco']
+05/26/2022 01:12:14 PM INFO: Ok, let's start the game!
+05/26/2022 01:12:14 PM INFO: Showing hand to: carolina
+05/26/2022 01:12:14 PM INFO: Showing hand to: marco
+05/26/2022 01:12:34 PM INFO: Player carolina providing hint to marco: cards with value 1 are in positions: [0, 4]
+05/26/2022 01:12:41 PM INFO: marco: card played and correctly put on the table
+05/26/2022 01:12:41 PM INFO: Showing hand to: carolina
+05/26/2022 01:12:41 PM INFO: Showing hand to: marco
+05/26/2022 04:58:12 PM INFO: Hanabi server started on 127.0.0.1:1024
+05/26/2022 04:58:15 PM INFO: Connected by: ('127.0.0.1', 55786)
+05/26/2022 04:58:15 PM INFO: Player connected: marco
+05/26/2022 04:58:17 PM INFO: Connected by: ('127.0.0.1', 55798)
+05/26/2022 04:58:17 PM INFO: Player connected: carolina
+05/26/2022 04:58:46 PM INFO: Player ready: carolina
+05/26/2022 04:58:48 PM INFO: Player ready: marco
+05/26/2022 04:58:48 PM INFO: Game start! Between: ['marco', 'carolina']
+05/26/2022 04:58:48 PM INFO: Ok, let's start the game!
+05/26/2022 04:58:48 PM INFO: Showing hand to: marco
+05/26/2022 04:58:48 PM INFO: Showing hand to: carolina
+05/26/2022 04:59:19 PM INFO: marco: card played and correctly put on the table
+05/26/2022 04:59:19 PM INFO: Showing hand to: marco
+05/26/2022 04:59:19 PM INFO: Showing hand to: carolina
+05/26/2022 04:59:55 PM WARNING: Impossible discarding a card: there is no used token available
+05/26/2022 05:00:12 PM INFO: Showing hand to: carolina
+05/26/2022 05:00:26 PM INFO: marco: card played and correctly put on the table
+05/26/2022 05:00:26 PM INFO: Showing hand to: marco
+05/26/2022 05:00:26 PM INFO: Showing hand to: carolina
+05/26/2022 05:01:49 PM INFO: Hanabi server started on 127.0.0.1:1024
+05/26/2022 05:01:50 PM INFO: Connected by: ('127.0.0.1', 55929)
+05/26/2022 05:01:50 PM INFO: Player connected: carolina
+05/26/2022 05:01:51 PM INFO: Connected by: ('127.0.0.1', 55935)
+05/26/2022 05:01:51 PM INFO: Player connected: marco
+05/26/2022 05:01:59 PM INFO: Player ready: carolina
+05/26/2022 05:02:01 PM INFO: Player ready: marco
+05/26/2022 05:02:01 PM INFO: Game start! Between: ['carolina', 'marco']
+05/26/2022 05:02:01 PM INFO: Ok, let's start the game!
+05/26/2022 05:02:01 PM INFO: Showing hand to: carolina
+05/26/2022 05:02:01 PM INFO: Showing hand to: marco
+05/26/2022 05:03:06 PM INFO: Player carolina providing hint to marco: cards with value 2 are in positions: [4]
+05/26/2022 05:03:25 PM INFO: marco: card played and correctly put on the table
+05/26/2022 05:03:25 PM INFO: Showing hand to: carolina
+05/26/2022 05:03:25 PM INFO: Showing hand to: marco
+05/26/2022 05:03:55 PM INFO: Showing hand to: carolina
+05/26/2022 05:22:18 PM INFO: Hanabi server started on 127.0.0.1:1024
+05/26/2022 05:22:23 PM INFO: Connected by: ('127.0.0.1', 56672)
+05/26/2022 05:22:23 PM INFO: Player connected: marco
+05/26/2022 05:22:23 PM INFO: Connected by: ('127.0.0.1', 56673)
+05/26/2022 05:22:23 PM INFO: Player connected: carolina
+05/26/2022 05:22:25 PM INFO: Player ready: carolina
+05/26/2022 05:22:27 PM INFO: Player ready: marco
+05/26/2022 05:22:27 PM INFO: Game start! Between: ['marco', 'carolina']
+05/26/2022 05:22:27 PM INFO: Ok, let's start the game!
+05/26/2022 05:22:27 PM INFO: Showing hand to: marco
+05/26/2022 05:22:27 PM INFO: Showing hand to: carolina
+05/26/2022 05:22:39 PM INFO: marco: card played and correctly put on the table
+05/26/2022 05:22:39 PM INFO: Showing hand to: marco
+05/26/2022 05:22:39 PM INFO: Showing hand to: carolina
+05/26/2022 05:22:50 PM INFO: carolina: card played and correctly put on the table
+05/26/2022 05:22:50 PM INFO: Showing hand to: carolina
+05/26/2022 05:22:50 PM INFO: Showing hand to: marco
+05/26/2022 05:24:31 PM INFO: Hanabi server started on 127.0.0.1:1024
+05/26/2022 05:24:34 PM INFO: Connected by: ('127.0.0.1', 56767)
+05/26/2022 05:24:34 PM INFO: Player connected: carolina
+05/26/2022 05:24:35 PM INFO: Connected by: ('127.0.0.1', 56773)
+05/26/2022 05:24:35 PM INFO: Player connected: marco
+05/26/2022 05:24:37 PM INFO: Player ready: carolina
+05/26/2022 05:24:38 PM INFO: Player ready: marco
+05/26/2022 05:24:38 PM INFO: Game start! Between: ['carolina', 'marco']
+05/26/2022 05:24:38 PM INFO: Ok, let's start the game!
+05/26/2022 05:24:38 PM INFO: Showing hand to: carolina
+05/26/2022 05:24:38 PM INFO: Showing hand to: marco
+05/26/2022 05:24:42 PM INFO: Showing hand to: carolina
+05/26/2022 05:24:42 PM INFO: Showing hand to: marco
+05/26/2022 05:25:40 PM INFO: Hanabi server started on 127.0.0.1:1024
+05/26/2022 05:25:47 PM INFO: Connected by: ('127.0.0.1', 56890)
+05/26/2022 05:25:47 PM INFO: Player connected: carolina
+05/26/2022 05:25:47 PM INFO: Connected by: ('127.0.0.1', 56891)
+05/26/2022 05:25:47 PM INFO: Player connected: marco
+05/26/2022 05:25:49 PM INFO: Player ready: carolina
+05/26/2022 05:25:51 PM INFO: Player ready: marco
+05/26/2022 05:25:51 PM INFO: Game start! Between: ['carolina', 'marco']
+05/26/2022 05:25:51 PM INFO: Ok, let's start the game!
+05/26/2022 05:25:51 PM INFO: Showing hand to: carolina
+05/26/2022 05:25:51 PM INFO: Showing hand to: marco
+05/26/2022 05:26:52 PM INFO: carolina: card played and correctly put on the table
+05/26/2022 05:26:52 PM INFO: Showing hand to: carolina
+05/26/2022 05:26:52 PM INFO: Showing hand to: marco
+05/26/2022 05:27:03 PM INFO: Showing hand to: carolina
+05/26/2022 05:27:03 PM INFO: Showing hand to: marco
+05/27/2022 01:04:50 PM INFO: Hanabi server started on 127.0.0.1:1024
+05/27/2022 01:05:05 PM INFO: Connected by: ('127.0.0.1', 55865)
+05/27/2022 01:05:05 PM INFO: Connected by: ('127.0.0.1', 55864)
+05/27/2022 01:05:05 PM INFO: Player connected: carolina
+05/27/2022 01:05:05 PM INFO: Player connected: marco
+05/27/2022 01:05:13 PM INFO: Player ready: carolina
+05/27/2022 01:05:16 PM INFO: Player ready: marco
+05/27/2022 01:05:16 PM INFO: Game start! Between: ['carolina', 'marco']
+05/27/2022 01:05:16 PM INFO: Ok, let's start the game!
+05/27/2022 01:05:16 PM INFO: Showing hand to: carolina
+05/27/2022 01:05:16 PM INFO: Showing hand to: marco
+05/27/2022 01:08:43 PM INFO: Hanabi server started on 127.0.0.1:1024
+05/27/2022 01:08:48 PM INFO: Connected by: ('127.0.0.1', 56133)
+05/27/2022 01:08:48 PM INFO: Player connected: marco
+05/27/2022 01:08:48 PM INFO: Connected by: ('127.0.0.1', 56134)
+05/27/2022 01:08:48 PM INFO: Player connected: carolina
+05/27/2022 01:08:51 PM INFO: Player ready: marco
+05/27/2022 01:08:55 PM INFO: Player ready: carolina
+05/27/2022 01:08:55 PM INFO: Game start! Between: ['marco', 'carolina']
+05/27/2022 01:08:55 PM INFO: Ok, let's start the game!
+05/27/2022 01:08:55 PM INFO: Showing hand to: marco
+05/27/2022 01:08:55 PM INFO: Showing hand to: carolina
+05/27/2022 01:08:55 PM WARNING: Player disconnected: carolina
+05/27/2022 01:08:55 PM WARNING: Player disconnected: marco
+05/27/2022 01:08:55 PM INFO: Shutting down server
+05/27/2022 01:10:13 PM INFO: Hanabi server started on 127.0.0.1:1024
+05/27/2022 01:10:15 PM INFO: Connected by: ('127.0.0.1', 56254)
+05/27/2022 01:10:15 PM INFO: Player connected: marco
+05/27/2022 01:10:17 PM INFO: Connected by: ('127.0.0.1', 56277)
+05/27/2022 01:10:17 PM INFO: Player connected: carolina
+05/27/2022 01:10:20 PM INFO: Player ready: marco
+05/27/2022 01:10:22 PM INFO: Player ready: carolina
+05/27/2022 01:10:22 PM INFO: Game start! Between: ['marco', 'carolina']
+05/27/2022 01:10:22 PM INFO: Ok, let's start the game!
+05/27/2022 01:10:22 PM INFO: Showing hand to: marco
+05/27/2022 01:10:22 PM INFO: Showing hand to: carolina
+05/27/2022 01:10:22 PM WARNING: Player disconnected: marco
+05/27/2022 01:10:22 PM WARNING: Player disconnected: carolina
+05/27/2022 01:10:22 PM INFO: Shutting down server
+05/27/2022 01:10:54 PM INFO: Hanabi server started on 127.0.0.1:1024
+05/27/2022 01:10:55 PM INFO: Connected by: ('127.0.0.1', 56414)
+05/27/2022 01:10:55 PM INFO: Player connected: marco
+05/27/2022 01:10:56 PM INFO: Connected by: ('127.0.0.1', 56421)
+05/27/2022 01:10:56 PM INFO: Player connected: carolina
+05/27/2022 01:10:58 PM INFO: Player ready: marco
+05/27/2022 01:11:00 PM INFO: Player ready: carolina
+05/27/2022 01:11:00 PM INFO: Game start! Between: ['marco', 'carolina']
+05/27/2022 01:11:00 PM INFO: Ok, let's start the game!
+05/27/2022 01:11:00 PM INFO: Showing hand to: marco
+05/27/2022 01:11:00 PM INFO: Showing hand to: carolina

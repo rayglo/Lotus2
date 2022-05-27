@@ -28,7 +28,7 @@ status = statuses[0]
 
 hintState = ("", "")
 
-lotus = LotusEngine()
+lotus = LotusEngine(playerName)
 
 def manageInput():
     global run
@@ -82,7 +82,7 @@ def manageInput():
                 continue
         elif command.split(" ")[0] == "query" and status == statuses[1]:
             print(f"executing query {command.split(' ', 1)[1]}")
-            print(lotus.prolog_query(command.split(' ')[1]))
+            print(lotus.client_prolog_query(command.split(' ')[1]))
             continue
         elif command == "":
             print("[" + playerName + " - " + status + "]: ", end="")
@@ -107,6 +107,7 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
         if not data:
             continue
         data = GameData.GameData.deserialize(data)
+        print("received " + str(type(data)))
         if type(data) is GameData.ServerPlayerStartRequestAccepted:
             dataOk = True
             print("Ready: " + str(data.acceptedStartRequests) + "/"  + str(data.connectedPlayers) + " players")
@@ -120,7 +121,7 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
             s.send(GameData.ClientGetGameStateRequest(playerName).serialize())
             data = s.recv(DATASIZE)
             data = GameData.GameData.deserialize(data)
-            lotus.first_set(data)
+            lotus.client_first_set(data)
         if type(data) is GameData.ServerGameStateData:
             dataOk = True
             print("Current player: " + data.currentPlayer)
@@ -147,13 +148,29 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
             dataOk = True
             print("Action valid!")
             print("Current player: " + data.player)
+            dataServerActionValid = data
+            s.send(GameData.ClientGetGameStateRequest(playerName).serialize())
+            data = s.recv(DATASIZE)
+            data = GameData.GameData.deserialize(data)
+            lotus.client_card_discard(dataServerActionValid, data)
         if type(data) is GameData.ServerPlayerMoveOk:
             dataOk = True
             print("Nice move!")
             print("Current player: " + data.player)
+            print("played card: " + data.card.toString())
+            dataServerPlayerMoveOk = data
+            s.send(GameData.ClientGetGameStateRequest(playerName).serialize())
+            data = s.recv(DATASIZE)
+            data = GameData.GameData.deserialize(data)
+            lotus.client_place_firework(dataServerPlayerMoveOk, data)
         if type(data) is GameData.ServerPlayerThunderStrike:
             dataOk = True
             print("OH NO! The Gods are unhappy with you!")
+            dataServerPlayerThunderStrike = data
+            s.send(GameData.ClientGetGameStateRequest(playerName).serialize())
+            data = s.recv(DATASIZE)
+            data = GameData.GameData.deserialize(data)
+            lotus.client_thunder_strike(dataServerPlayerThunderStrike, data)
         if type(data) is GameData.ServerHintData:
             dataOk = True
             print("Hint type: " + data.type)
