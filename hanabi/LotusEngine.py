@@ -13,14 +13,10 @@ class LotusEngine:
         self.owner = owner
         self.prolog = PrologMQI()
         with self.prolog.create_thread() as prolog_thread:
-            with open("knowledge_base_core.txt") as file:
-                logging.info("Inserting knowledge base core")
-                for line in file:
-                    if line[0] == '#':
-                        continue
-                    prolog_thread.query(f"assertz({line}).")
-                for i in range(5):
-                    prolog_thread.query(f"assertz(playerhand({self.owner.lower()},{i},card(0,unknown))).")
+            logging.info("Inserting knowledge base core")
+            self.prolog_query(prolog_thread, 'consult("knowledge_base_core").')
+            for i in range(5):
+                prolog_thread.query(f"assertz(playerhand({self.owner.lower()},{i},card(0,unknown))).")
 
     def client_first_set(self, data: GameData.ServerGameStateData):
         """
