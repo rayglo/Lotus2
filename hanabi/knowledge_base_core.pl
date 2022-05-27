@@ -1,7 +1,7 @@
 :- dynamic bluetoken/1.
 :- dynamic redtoken/1.
 :- dynamic deck/2.
-:- dynamic tablefirework/1.
+:- dynamic tablefirework/2.
 :- dynamic discardpile/2.
 :- dynamic playerhand/3.
 :- dynamic playerknows/3.
