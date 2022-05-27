@@ -82,7 +82,12 @@ def manageInput():
                 continue
         elif command.split(" ")[0] == "query" and status == statuses[1]:
             print(f"executing query {command.split(' ', 1)[1]}")
-            print(lotus.client_prolog_query(command.split(' ')[1]))
+            result = lotus.client_prolog_query(command.split(' ')[1])
+            if type(result) == bool:
+                print(result)
+            else:
+                for line in result:
+                    print(line)
             continue
         elif command == "":
             print("[" + playerName + " - " + status + "]: ", end="")
@@ -177,6 +182,7 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
             print("Player " + data.destination + " cards with value " + str(data.value) + " are:")
             for i in data.positions:
                 print("\t" + str(i))
+            lotus.client_hint_received(data)
         if type(data) is GameData.ServerInvalidDataReceived:
             dataOk = True
             print(data.data)

@@ -43,6 +43,8 @@ class LotusEngine:
 
         with self.prolog.create_thread() as prolog_thread:
             for i in data.players:
+                if i == self.owner:
+                    continue
                 for j in range(5):
                     self.prolog_query(prolog_thread, f"assertz(playerknows({i.name.lower()},{j},card(0,unknown))).")
 
@@ -75,9 +77,7 @@ class LotusEngine:
                     color_next = result['Y']
                     self.prolog_query(prolog_thread, f"retract(playerhand({dataAV.lastPlayer.lower()},{i},_)).")
                     self.prolog_query(prolog_thread, f"assert(playerhand({dataAV.lastPlayer.lower()},{i-1},card({value_next},{color_next}))).")
-            blue_tokens = list(self.prolog_query(prolog_thread,f"bluetoken(X)."))[0]['X']
-            self.prolog_query(prolog_thread, "retract(bluetoken(_)).")
-            self.prolog_query(prolog_thread, f"assertz(bluetoken({blue_tokens + 1})).")
+        self.modify_bluetoken_quantity(1)
         self.add_card_to_discard(dataAV.card.value, dataAV.card.color) # Add card to discard pile
         if card_unknown:
             self.remove_card_from_deck(dataAV.card.value, dataAV.card.color)
@@ -89,6 +89,7 @@ class LotusEngine:
                 if p.name != dataAV.lastPlayer:
                     continue
                 self.player_draws_card(dataAV.lastPlayer.lower(), 4, p.hand[4].value, p.hand[4].color)
+                self.remove_player_card_knowledge(dataAV.lastPlayer.lower(), dataAV.cardHandIndex)
                 break
 
     def remove_card_from_deck(self, value: int, color: str):
@@ -177,6 +178,7 @@ class LotusEngine:
                 if p.name != dataPMO.lastPlayer:
                     continue
                 self.player_draws_card(dataPMO.lastPlayer.lower(), 4, p.hand[4].value, p.hand[4].color)
+                self.remove_player_card_knowledge(dataPMO.lastPlayer.lower(),dataPMO.cardHandIndex)
                 break
 
     def client_thunder_strike(self, dataPTS: GameData.ServerPlayerThunderStrike, dataGSD: GameData.ServerGameStateData):
@@ -208,7 +210,7 @@ class LotusEngine:
                     value_next = result['X']
                     color_next = result['Y']
                     self.prolog_query(prolog_thread,f"retract(playerhand({dataPTS.lastPlayer.lower()},{i},_)).")
-                    self.prolog_query(prolog_thread.query,f"assert(playerhand({dataPTS.lastPlayer.lower()},{i - 1},card({value_next},{color_next}))).")
+                    self.prolog_query(prolog_thread,f"assert(playerhand({dataPTS.lastPlayer.lower()},{i - 1},card({value_next},{color_next}))).")
             red_tokens = list(self.prolog_query(prolog_thread,"redtoken(X)."))[0]['X']
             self.prolog_query(prolog_thread, "retract(redtoken(_)).")
             self.prolog_query(prolog_thread, f"assertz(redtoken({red_tokens + 1})).")
@@ -223,17 +225,14 @@ class LotusEngine:
                 if p.name != dataPTS.lastPlayer:
                     continue
                 self.player_draws_card(dataPTS.lastPlayer.lower(), 4, p.hand[4].value, p.hand[4].color)
+                self.remove_player_card_knowledge(dataPTS.lastPlayer.lower(),dataPTS.cardHandIndex)
                 break
 
-
     def client_hint_received(self, dataHD: GameData.ServerHintData):
-        with self.prolog.create_thread() as prolog_thread:
-            blue_tokens = list(self.prolog_query(prolog_thread, "bluetoken(X)."))[0]['X']
-            self.prolog_query(prolog_thread, "retract(bluetoken(_)).")
-            self.prolog_query(prolog_thread, f"assertz(bluetoken({blue_tokens - 1})).")
-            self.add_player_knowledge(dataHD.destination, dataHD.positions, dataHD.type, dataHD.value)
+        self.modify_bluetoken_quantity(-1)
+        self.add_player_card_knowledge(dataHD.destination, dataHD.positions, dataHD.type, dataHD.value)
 
-    def add_player_knowledge(self, player: str, positions: list, type: str, value: int):
+    def add_player_card_knowledge(self, player: str, positions: list, type: str, value: int):
         """
         To be used when a player gains direct knowledge about one of his cards. Adds a playerknows fact if the
         player isn't the owner, else it'll add a playerhand fact
@@ -259,6 +258,36 @@ class LotusEngine:
                     prev_value = result['Y']
                     self.prolog_query(prolog_thread,
                                       f"assertz({fact}({player.lower()},{i},card({value},{prev_value}))).")
+
+    def remove_player_card_knowledge(self, player: str, index: int):
+        """
+        Removes the playerknows fact for a player's card at a given index of his hand, and sets an unknown card
+        at index 4 of his hand. To not be used for the lotus owner, that'll use the draw mechanism for that.
+
+        :param player: the name of the player
+        :param index: the index of the hand to remove knowledge from
+        """
+        with self.prolog.create_thread() as prolog_thread:
+            self.prolog_query(prolog_thread,f"retract(playerknows({player.lower()},{index},_)).")
+            if index < 4:
+                for i in range(index + 1, 5):
+                    result = list(self.prolog_query(prolog_thread, f"playerknows({player.lower()},{i},card(X,Y))."))[0]
+                    value_next = result['X']
+                    color_next = result['Y']
+                    self.prolog_query(prolog_thread, f"retract(playerknows({player.lower()},{i},_)).")
+                    self.prolog_query(prolog_thread,
+                                      f"assert(playerknows({player.lower()},{i - 1},card({value_next},{color_next}))).")
+            self.prolog_query(prolog_thread,f"assertz(playerknows({player.lower()},4,card(0,unknown))).")
+
+    def modify_bluetoken_quantity(self, quantity_offset: int):
+        """ Add a positive o negative quantity to be added to the bluetoken quantity
+
+        :param quantity_offset: The number of tokens to add/remove to the total
+        """
+        with self.prolog.create_thread() as prolog_thread:
+            blue_tokens = list(self.prolog_query(prolog_thread, "bluetoken(X)."))[0]['X']
+            self.prolog_query(prolog_thread, "retract(bluetoken(_)).")
+            self.prolog_query(prolog_thread, f"assertz(bluetoken({blue_tokens + quantity_offset})).")
 
     def prolog_query(self, thread: PrologThread, query: str):
         logging.info("Executing " + query)
